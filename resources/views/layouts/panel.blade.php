@@ -32,7 +32,7 @@
     <link href="{{asset('app/css/panel/themes/all-themes.css')}}" rel="stylesheet" />
 </head>
 
-<body class="theme-red">
+<body class="theme-green">
 <!-- Page Loader -->
 <div class="page-loader-wrapper">
     <div class="loader">
